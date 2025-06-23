@@ -1,2 +1,4 @@
 Cancers/Brain/data/
-Cancers/Oral/data
+Cancers/Oral/data/
+# Virtual environment for Revati
+can_venv/ 
