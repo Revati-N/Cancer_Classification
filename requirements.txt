@@ -6,3 +6,4 @@ tensorflow
 ipykernel
 keras
 opencv-python
+seaborn
