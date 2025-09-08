@@ -7,3 +7,6 @@ ipykernel
 keras
 opencv-python
 seaborn
+torch 
+torchvision 
+torchaudio

@@ -4,3 +4,4 @@ Cancers/Oral/data/
 can_venv/ 
 Robust/data
 Robust/best_vgg16_cancer_model.h5
+Robust/best_resnet50_cancer_model.h5
